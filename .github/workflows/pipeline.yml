@@ -24,3 +24,5 @@ jobs:
       run: npm install
     - name: Run unit tests
       run: npm run  test:unit
+    - name: Display soft uni
+      run: echo knetsov
